@@ -1,63 +1,112 @@
 <div align="center">
-  <h1>Hi there! I'm Joe Zayan 👋</h1>
-  
-  <img src="https://img.shields.io/badge/Age-16-blue?style=for-the-badge&logoColor=white" alt="age 16"/>
-  <img src="https://img.shields.io/badge/Currently_learning-Cybersecurity_%2B_AI-orange?style=for-the-badge&logo=linux&logoColor=white" alt="learning cyber + ai"/>
-  <br><br>
-  
-  <p>
-    16 years old • just started my journey in <strong>Cybersecurity</strong> + <strong>Artificial Intelligence</strong><br>
-    Breaking things legally, building cool stuff, and exploring how AI + cyber collide 😈🤖
-  </p>
 
-  <!-- Cool static cyberpunk hacker photo (neon hooded figure + digital interface) -->
-  <img src="https://thumbs.dreamstime.com/b/cybersecurity-concept-hooded-hacker-digital-interface-figure-mask-typing-keyboard-against-glowing-backdrop-317743092.jpg" width="480" alt="cyberpunk hooded hacker with neon digital mask and glowing code">
-  <!-- Alternative options if you want to swap:
-       - More anonymous neon mask: https://wallpapers.com/images/hd/64k-ultra-hd-hacker-anonymous-neon-mask-cyjce15sg57sfjsn.jpg
-       - Futuristic neon workspace: https://thumbs.dreamstime.com/b/cyberpunk-workstation-displaying-data-futuristic-user-interface-digital-screens-glowing-code-streams-ui-dark-neon-417755900.jpg
-  -->
-</div>
+```
+╔═══════════════════════════════════════════════════════════╗
+║   ██╗ ██████╗ ███████╗    ███████╗ █████╗ ██╗   ██╗ █████╗ ███╗   ██╗  ║
+║   ██║██╔═══██╗██╔════╝    ╚══███╔╝██╔══██╗╚██╗ ██╔╝██╔══██╗████╗  ██║  ║
+║   ██║██║   ██║█████╗        ███╔╝ ███████║ ╚████╔╝ ███████║██╔██╗ ██║  ║
+║██ ██║██║   ██║██╔══╝       ███╔╝  ██╔══██║  ╚██╔╝  ██╔══██║██║╚██╗██║  ║
+║╚████╔╝╚██████╔╝███████╗   ███████╗██║  ██║   ██║   ██║  ██║██║ ╚████║  ║
+║ ╚═══╝  ╚═════╝ ╚══════╝   ╚══════╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═══╝  ║
+╚═══════════════════════════════════════════════════════════╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&background=000000&center=true&vCenter=true&width=600&lines=Breaking+things+legally+%F0%9F%94%93;Learning+offensive+%26+defensive+security;TryHackMe+%7C+HackTheBox+%7C+CTFs;Future+Red+Team+%2F+Blue+Team+Hybrid+%F0%9F%91%BE" alt="Typing SVG" />
 
 <br>
 
-## 🌱 What I'm learning right now
+![Profile Views](https://komarev.com/ghpvc/?username=joezayan&color=00ff41&style=for-the-badge&label=PROFILE+VIEWS)
+![Age](https://img.shields.io/badge/AGE-16-00ff41?style=for-the-badge&logoColor=black)
+![Status](https://img.shields.io/badge/STATUS-LEARNING-00ff41?style=for-the-badge&logo=hackthebox&logoColor=black)
 
-- Linux basics (commands, filesystem, permissions)
-- Networking fundamentals (TCP/IP, DNS, HTTP, subnets)
-- Python scripting (for automation, tools, and AI experiments)
-- TryHackMe & HackTheBox beginner/intermediate challenges
-- Intro AI/ML concepts (neural networks, basic Python libraries)
-
-## 🛠️ Tools & Technologies I'm exploring
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Terminal-000000?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TryHackMe-00AC56?style=for-the-badge&logo=tryhackme&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</div>
-
-<br>
-
-## 🔭 My 2026 Goals
-
-- Finish TryHackMe **Jr Penetration Tester** learning path
-- Solve 50+ beginner to intermediate HTB machines/boxes
-- Truly understand machine learning basics (beyond copy-paste)
-- Build and share my first simple Python security/AI tool
-- Write at least 10 write-ups, CTF notes, or mini-projects here
-
-## 📫 How to reach me
-- **X / Twitter** → @joezayan 
-- **Email** → (joezayan.cy.ai@gmail.com)
-
-<br>
-
-<div align="center">
-  <strong>"The line between offense and defense is blurring — AI is the accelerator."</strong><br>
-  Learning fast. Hacking ethically. Building the future. 🚀
 </div>
 
 ---
-Last updated: February 2026
+
+```bash
+┌──(joezayan㉿kali)-[~]
+└─$ whoami
+
+> 16 y/o cybersecurity student
+> Breaking & building things — legally
+> Learning how to think like an attacker to defend like a pro
+> Currently: beginner → intermediate journey
+```
+
+---
+
+## 🔍 Current Focus
+
+```
+[■■■■■■░░░░]  Linux & Bash scripting
+[■■■■░░░░░░]  Networking (TCP/IP, DNS, HTTP, Wireshark)
+[■■■░░░░░░░]  Python for security automation
+[■■■■■░░░░░]  TryHackMe challenges & CTFs
+[■░░░░░░░░░]  Web application security basics
+```
+
+---
+
+## 🛠️ Tools & Stack
+
+<div align="center">
+
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=00FF41)
+![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF41)
+![Bash](https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00FF41)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-141D2B?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![VS Code](https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF41)
+
+</div>
+
+---
+
+## 🎯 2026 Roadmap
+
+- [ ] 🔴 Complete TryHackMe **Jr Penetration Tester** path
+- [ ] 🟠 Solve 50+ beginner → intermediate HTB machines
+- [ ] 🟡 Earn first cybersecurity certification
+- [ ] 🟢 Build & publish a Python security tool
+- [ ] 🔵 Write 10+ CTF write-ups & notes on this profile
+- [ ] 🟣 Understand web app attacks (SQLi, XSS, IDOR)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joezayan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joezayan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff)
+
+</div>
+
+---
+
+## 📡 Contact
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/joezayan)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:joezayan.cy.ai@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/joezayan)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+"Know your enemy, know yourself — in a hundred battles, you will never be in peril."
+                                                              — Sun Tzu
+```
+
+*Learning fast. Hacking ethically. Defending hard.* 🔐
+
+</div>

@@ -76,13 +76,9 @@
 
 ---
 
-## 📊 GitHub Stats
+
 
 <div align="center">
-
-![Joe's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joezayan&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&icon_color=00FF41&text_color=ffffff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joezayan&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=ffffff)
 
 </div>
 
@@ -92,17 +88,13 @@
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/joezayan)
+[![Twitter](https://img.shields.io/badge/X_%2F_Twitter-000000?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/JOEZAYAN_)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:joezayan.cy.ai@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/joezayan)
+
 
 </div>
 
----
 
-<div align="center">
-
-```
 "Know your enemy, know yourself — in a hundred battles, you will never be in peril."
                                                               — Sun Tzu
 ```
